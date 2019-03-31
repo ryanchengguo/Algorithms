@@ -14,4 +14,7 @@ Array
   - Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.  
 
 - 66_Plus One  
-  - Given a non-empty array of digits representing a non-negative integer, plus one to the integer. The digits are stored such that the most significant digit is at the head of the list, and each element in the array contain a single digit. You may assume the integer does not contain any leading zero, except the number 0 itself.
+  - Given a non-empty array of digits representing a non-negative integer, plus one to the integer. The digits are stored such that the most significant digit is at the head of the list, and each element in the array contain a single digit. You may assume the integer does not contain any leading zero, except the number 0 itself.  
+  
+- 88_Merge Sorted Array  
+  - Given two sorted integer arrays nums1 and nums2, merge nums2 into nums1 as one sorted array.  
