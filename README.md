@@ -18,3 +18,7 @@ Array
   
 - 88_Merge Sorted Array  
   - Given two sorted integer arrays nums1 and nums2, merge nums2 into nums1 as one sorted array.  
+  
+- 118_Pascal's Triangle  
+  - Given a non-negative integer numRows, generate the first numRows of Pascal's triangle. In Pascal's triangle, each number is the sum of the two numbers directly above it.  
+  
