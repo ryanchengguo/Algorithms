@@ -22,3 +22,6 @@ Array
 - 118_Pascal's Triangle  
   - Given a non-negative integer numRows, generate the first numRows of Pascal's triangle. In Pascal's triangle, each number is the sum of the two numbers directly above it.  
   
+- 119_Pascal's Triangle II  
+  - Given a non-negative index k where k ≤ 33, return the kth index row of the Pascal's triangle. Note that the row index starts from 0. (In Pascal's triangle, each number is the sum of the two numbers directly above it.) (Could you optimize your algorithm to use only O(k) extra space?)
+  
