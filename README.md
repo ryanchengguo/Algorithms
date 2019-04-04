@@ -31,5 +31,8 @@ Array
 - 566_Reshape the Matrix  
   - In MATLAB, there is a very useful function called 'reshape', which can reshape a matrix into a new one with different size but keep its original data. You're given a matrix represented by a two-dimensional array, and two positive integers r and c representing the row number and column number of the wanted reshaped matrix, respectively. The reshaped matrix need to be filled with all the elements of the original matrix in the same row-traversing order as they were. If the 'reshape' operation with given parameters is possible and legal, output the new reshaped matrix; Otherwise, output the original matrix.  
     - The height and width of the given matrix is in range [1, 100].  
-    - The given r and c are all positive.
-  
+    - The given r and c are all positive.  
+
+Dynamic Programming  
+- 198_House Robber  
+  - You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security system connected and it will automatically contact the police if two adjacent houses were broken into on the same night. Given a list of non-negative integers representing the amount of money of each house, determine the maximum amount of money you can rob tonight without alerting the police. 
