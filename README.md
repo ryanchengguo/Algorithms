@@ -40,4 +40,5 @@ Dynamic Programming
 Linked List
 - 21_Merge Two Sorted Lists  
   - Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists.  
-  
+- 83_Remove Duplicates from Sorted List  
+  - Given a sorted linked list, delete all duplicates such that each element appear only once.
