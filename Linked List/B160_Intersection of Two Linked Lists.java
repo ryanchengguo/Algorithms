@@ -10,9 +10,7 @@ class Solution{
 			if(visited.contains(p2)){
 				return p2;
 			}
-			p2 = p2.next;
-			
-			
+			p2 = p2.next;	
 		}
 		return null;
 	}
