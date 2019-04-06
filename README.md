@@ -41,4 +41,8 @@ Linked List
 - 21_Merge Two Sorted Lists  
   - Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists.  
 - 83_Remove Duplicates from Sorted List  
-  - Given a sorted linked list, delete all duplicates such that each element appear only once.
+  - Given a sorted linked list, delete all duplicates such that each element appear only once.  
+- 160_Intersection of Two Linked Lists  
+  - Write a program to find the node at which the intersection of two singly linked lists begins.  
+    - Input: intersectVal = 8, listA = [4,1,8,4,5], listB = [5,0,1,8,4,5], skipA = 2, skipB = 3  
+    - Output: Reference of the node with value = 8  
