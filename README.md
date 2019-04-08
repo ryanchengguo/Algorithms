@@ -49,5 +49,5 @@ Algorithms Practices - Java
     - Input: intersectVal = 8, listA = [4,1,8,4,5], listB = [5,0,1,8,4,5], skipA = 2, skipB = 3  
     - Output: Reference of the node with value = 8  
     
-- 203. Remove Linked List Elements  
+- 203_Remove Linked List Elements  
   - Remove all elements from a linked list of integers that have value val.  
