@@ -45,8 +45,10 @@ Algorithms Practices - Java
   
 - 217_Contains Duplicate  
   - Given an array of integers, find if the array contains any duplicates. Your function should return true if any value appears at least twice in the array, and it should return false if every element is distinct.  
-    - Input: [1,2,3,1]    Input: [1,2,3,4]  
-    - Output: true        Output: false  
+    - Input: [1,2,3,1]    
+    - Output: true  
+    - Input: [1,2,3,4]  
+    - Output: false  
 
 ## Linked List
 - 21_Merge Two Sorted Lists  
