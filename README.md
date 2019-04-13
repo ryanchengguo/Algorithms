@@ -42,6 +42,11 @@ Algorithms Practices - Java
 
 - 136_Single Number (hash table approach)  
   - Given a non-empty array of integers, every element appears twice except for one. Find that single one.  
+  
+- 217_Contains Duplicate  
+  - Given an array of integers, find if the array contains any duplicates. Your function should return true if any value appears at least twice in the array, and it should return false if every element is distinct.  
+    - Input: [1,2,3,1]    Input: [1,2,3,4]  
+    - Output: true        Output: false  
 
 ## Linked List
 - 21_Merge Two Sorted Lists  
