@@ -50,6 +50,13 @@ Algorithms Practices - Java
     - Input: [1,2,3,4]  
     - Output: false  
 
+- 219_Contains Duplicate II  
+  - Given an array of integers and an integer k, find out whether there are two distinct indices i and j in the array such that nums[i] = nums[j] and the absolute difference between i and j is at most k.  
+    - Input: nums = [1,2,3,1], k = 3  
+    - Output: true  
+    - Input: nums = [1,2,3,1,2,3], k = 2  
+    - Output: false  
+  
 ## Linked List
 - 21_Merge Two Sorted Lists  
   - Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists.  
